@@ -6,7 +6,8 @@
 	*@param[in] y is the y-axis indices
 	*@return Game Over
 	*/
-
+	#include<stdio.h>
+	#include<conio.h>
 	void drawBoundary(int x,int y,int *posX,int *posY,int *gameOver);
 
 	#endif

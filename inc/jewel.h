@@ -31,5 +31,5 @@
 
 	#ifndef __success__
 	#define __success__
-     int success(int A);
+     int jewel(int A);
      #endif // __success__

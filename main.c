@@ -76,7 +76,7 @@ int main(){
 			}
 		}
 	}
-	success(b);
+	jewel(b);
 	getch();
 	return(0);
 }
